@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">5 Tips for Photoshop Beginners</string>
+    <string name="content1">When you first open up Photoshop it’s important to take a good look at what’s on your screen. You’ll need to know where everything is located as well as what the different icons look like for your tools and settings. Here is how the default Photoshop CC work space looks.</string>
+    <string name="content2">It’s weird how the undo shortcut (ctrl+z) works. If you press it once, surely you undo. But press the shortcut again, and you will undo what you undid. To see the procces of this, got to windows –> History.</string>
+    <string name="content3">As a new user you are probably learning about the layer mask. And that’s good! It’s very important. But tutorials doesn’t tell you, that you can enter the layer mask! By holding down alt and pressing on the layer mask!</string>
+    <string name="content4">You can make your life a whole lot easier just by memorizing a few keyboard shortcuts. Keyboard shortcuts allow you to access a tool, setting, or particular action in Photoshop just by hitting certain keys on your keyboard.</string>
+    <string name="content5"><b>Basics Shortcuts</b>
+
+\nControl-S to Save
+
+
+\nControl-Z to Undo
+
+
+\nControl-C to Copy
+
+
+\nControl-V to Paste
+
+
+\nControl-X to Cut</string>
+    <string name="content6">Use the links below to click straight through to the different types of Photoshop tutorials we\'ve rounded up here.\n
+        Photo-illustration and collage tutorials\n
+http://www.google.com \n
+Illustration and art tutorials\n
+        http://www.digitalartsonline.co.uk/features/illustration/70-best-photoshop-tutorials/?2#22\n
+Vector portraits in Photoshop tutorials\n
+        http://www.digitalartsonline.co.uk/features/illustration/70-best-photoshop-tutorials/?3#40\n
+Photography tutorials for Photoshop\n
+        http://www.digitalartsonline.co.uk/features/illustration/70-best-photoshop-tutorials/?4#43
+
+        \n
+So make your way through this feature to find your perfect Photoshop tutorial for the creative skills you want to learn.
+
+</string>
+    <string name="content7">
+Target user: \n
+Photoshop beginner\n
+\n
+Description:\n
+This app will be useful for the beginners who learning Photoshop to know more about the basic skills of Photoshop. \n
+\n
+Contents:\n
+Tip 1 - Photoshop Panel\n
+Tip 2 - History panel – Photoshop undo\n
+Tip 3 - Introduction to Layer\n
+Tip 4 - Shortcuts \n
+Tip 5 - Try a Photoshop Tutorial</string>
+
+</resources>
